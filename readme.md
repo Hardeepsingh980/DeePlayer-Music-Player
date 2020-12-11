@@ -43,6 +43,8 @@ This is a music player application named as DeePlayer. This have all the feature
 
 18. Current Duration of track and Total duration of track
 
+19. Album Art
+
 
 ## How To Run
 
